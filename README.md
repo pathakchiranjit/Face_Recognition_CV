@@ -31,6 +31,10 @@ The AI consultant team will follow the below week-wise goals,
 <img src="https://github.com/pathakchiranjit/Face_Recognition_CV/blob/main/Snaps/3.png?raw=true" align='left'><br/>
 
 
+
+
+
+
 ## Table of Contents
 
 1. [Objective: Problem Statement](#section1)<br>
