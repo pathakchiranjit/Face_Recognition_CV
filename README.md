@@ -22,7 +22,6 @@ The existing employees or the ones joining the Company gets a card having a QR(R
 
 As a part of the **digital approach**, the Admin Department hires **INSAIDians** as their **AI consultant** in order to supplement their security protocols with a more proactive approach.
 
-<img src="https://github.com/pathakchiranjit/Face_Recognition_CV/blob/main/Snaps/2.png?raw=true" align='left'><br/>
 
 
 ### **Weekly Goals for the team?**:
